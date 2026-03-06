@@ -1,0 +1,4 @@
+"C:\Users\tvn250203\AppData\Local\Programs\UiPath\Studio\UiRobot.exe"
+
+
+"D:\setup\User c driver data\Documents\UiPath\thuchanh4M\Main.xaml"
